@@ -24,10 +24,5 @@ Enjoy managing your pet's needs with NetPuppy! If you encounter any issues or ha
 
 ## Screenshots
 
-- Desktop View
-  
-![Screenshot 1](https://github.com/viveKing21/react-netpuppy/blob/main/screenshots/desktop.png)
-
-- Mobile View
-  
-![Screenshot 2](https://github.com/viveKing21/react-netpuppy/blob/main/screenshots/mobile.png)
+| Desktop | Mobile |
+| ![Screenshot 1](https://github.com/viveKing21/react-netpuppy/blob/main/screenshots/desktop.png) | ![Screenshot 2](https://github.com/viveKing21/react-netpuppy/blob/main/screenshots/mobile.png) |
