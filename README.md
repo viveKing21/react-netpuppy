@@ -4,8 +4,11 @@ Welcome to NetPuppy, your friendly neighborhood web application for managing you
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot_1)
-![Screenshot 2](link_to_screenshot_2)
+- Desktop View
+![Screenshot 1](https://github.com/viveKing21/react-netpuppy/blob/main/screenshots/desktop.png)
+
+- Mobile View
+![Screenshot 2](https://github.com/viveKing21/react-netpuppy/blob/main/screenshots/mobile.png)
 
 ## Deployed Link
 
